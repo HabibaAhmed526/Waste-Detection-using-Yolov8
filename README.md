@@ -1,8 +1,9 @@
 # Waste detection system
 This project demonstrates waste detection using a YOLOv8 (You Only Look Once) object detection model. It identifies recyclable, non-recyclable, and hazardous waste items in a webcam stream.
 
-The datasets used to train:
-https://universe.roboflow.com/ai-project-i3wje/waste-detection-vqkjo/dataset/8
+A diverse dataset of waste images including different waste categories such as plastic, metal, paper, glass, cardboard, biodegradable is collected from Roboflow. The dataset has over 6000 images and splitted into 3 sets: Training, Validation, Testing. The dataset is annotated with bounding box labels around the waste objects using in-built annotation features present in Roboflow
+
+You can get the dataset from https://roboflow.com/
 
 ## Project Structure
 
