@@ -9,7 +9,6 @@ https://universe.roboflow.com/ai-project-i3wje/waste-detection-vqkjo/dataset/8
 - `app.py`: Main application file containing Streamlit code.
 - `helper.py`: Helper functions for waste detection using the YOLO model.
 - `settings.py`: Configuration settings, including the path to the YOLO model and waste types.
-- `train.py`: To train the model
 
 ## Classifying Waste Items
 
